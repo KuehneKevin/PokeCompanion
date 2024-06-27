@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\kuehne\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages": {},
+    "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages": {},
+    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\PokeCompanion-Project\\PokeCompanion\\PokeCompanion\\PokeCompanion.csproj",
+      "projectName": "PokeCompanion",
+      "projectPath": "C:\\PokeCompanion-Project\\PokeCompanion\\PokeCompanion\\PokeCompanion.csproj",
+      "packagesPath": "C:\\Users\\kuehne\\.nuget\\packages\\",
+      "outputPath": "C:\\PokeCompanion-Project\\PokeCompanion\\PokeCompanion\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+        "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\kuehne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+        "C:\\temp\\MyPackages": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/VEiptKTsb9L1cP4yiIra7meguNCokt6WKJOyrbjh3RVgYJcPqY/api": {},
+        "https://tfs01/tfs/DefaultCollection/_packaging/fastec4pro/nuget/v3/index.json": {},
+        "https://tfs01/tfs/DefaultCollection/_packaging/projects-libraries/nuget/v3/index.json": {},
+        "https://tfs01/tfs/DefaultCollection/_packaging/projects/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
