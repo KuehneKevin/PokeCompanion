@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PokeCompanion-Project\\PokeCompanion\\PokeCompanion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9694848-48A8-4DB8-881A-BDD47F44038D}|PokeCompanion\\PokeCompanion.csproj|c:\\pokecompanion-project\\pokecompanion\\pokecompanion\\pokecompanion\\landingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9694848-48A8-4DB8-881A-BDD47F44038D}|PokeCompanion\\PokeCompanion.csproj|solutionrelative:pokecompanion\\landingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LandingPage.xaml",
+              "DocumentMoniker": "C:\\PokeCompanion-Project\\PokeCompanion\\PokeCompanion\\PokeCompanion\\LandingPage.xaml",
+              "RelativeDocumentMoniker": "PokeCompanion\\LandingPage.xaml",
+              "ToolTip": "C:\\PokeCompanion-Project\\PokeCompanion\\PokeCompanion\\PokeCompanion\\LandingPage.xaml",
+              "RelativeToolTip": "PokeCompanion\\LandingPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T20:11:00.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
