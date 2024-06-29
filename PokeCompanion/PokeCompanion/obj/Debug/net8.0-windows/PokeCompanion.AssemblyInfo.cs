@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PokeCompanion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3d0f435fd8d79cfc6b49d7ccfb9f2304b2e8e39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1de836b79e3c4f2a2535f0f3c4df3c62c51c9cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("PokeCompanion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PokeCompanion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

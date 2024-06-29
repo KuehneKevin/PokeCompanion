@@ -6,5 +6,8 @@
         xmlns:local="clr-namespace:PokeCompanion"
         mc:Ignorable="d"
         Title="LandingPage" Height="450" Width="800">
-    <Grid/>
+    <Grid>
+        <Button x:Name="btn_startTeamBuilder" Content="Start Teambuilder" HorizontalAlignment="Left" Height="402" Margin="22,10,0,0" VerticalAlignment="Top" Width="288"/>
+        <Button x:Name="btn_startEVTrainer" Content="Start EV-Trainer" HorizontalAlignment="Left" Height="77" Margin="606,10,0,0" VerticalAlignment="Top" Width="184"/>
+    </Grid>
 </Window>
